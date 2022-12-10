@@ -9,7 +9,7 @@ const Navbar: React.FC<IProps> = (props) => {
     <Router>
       <div className="navbar__wrapper">
         <NavLink to="/">
-          <h2>Single SPA (microfrontend)</h2>
+          <h2>Single SPA (Part One in ReactJS)</h2>
         </NavLink>
         <div className="flex-between">
           <NavLink to="/contact">contact</NavLink>
