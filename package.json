@@ -1,6 +1,6 @@
 {
   "name": "@RaHeRo/react-spa-navbar",
-  "homepage": "https://gitname.github.io/react-spa-navbar",
+  "homepage": "https://rasoul678.github.io/react-spa-navbar",
   "scripts": {
     "start": "webpack serve --port 8500",
     "start:standalone": "webpack serve --env standalone",
